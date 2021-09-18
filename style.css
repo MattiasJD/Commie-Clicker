@@ -14,13 +14,21 @@ body{
     width: 60%;
     float: left;
     font-size: 32px;
+    font-weight: bolder;
 }
 .shop{
-    text-align: center
+    text-align: center;
+    font-size: 26px;
+    padding-bottom: 18px;
 }
 .right{
     width: 20%;
     float: left;
+
+}
+#mps{
+    font-size: 32px;
+    font-weight: bolder;
 }
 #dbl img:hover{
     transform: scale(1.01);
