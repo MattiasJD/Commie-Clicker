@@ -4,10 +4,6 @@
 body{
     background-image: url("bruh.png");
 }
-.leftmost{
-    width: 10%;
-    float: left;
-}
 .left{
     width: 20%;
     font-family: sans-serif;
@@ -15,25 +11,22 @@ body{
     float: left;
 }
 .centre{
-    width: 40%;
+    width: 60%;
     float: left;
     font-size: 32px;
 }
+.shop{
+    text-align: center
+}
 .right{
     width: 20%;
-    background-color: red;
-    float: left;
-}
-.rightmost{
-    width: 10%;
-    background-color: blue;
     float: left;
 }
 #dbl img:hover{
     transform: scale(1.01);
 }
 #dbl img:active{
-    transform: scale(0.99);
+    transform: scale(0.98);
 }
 
 .left img:hover{
