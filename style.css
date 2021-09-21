@@ -13,19 +13,20 @@ body{
 }
 .centre{
     width: 60%;
-    float: left;
     font-size: 32px;
     font-weight: bolder;
+    float: left;
 }
 .shop{
     text-align: center;
-    font-size: 26px;
+    font-size: 18px;
     padding-bottom: 18px;
+    color: #e0dee5;
+    float: right;
 }
 .right{
     width: 20%;
-    float: left;
-
+    float: right;
 }
 #mps{
     font-size: 32px;
@@ -43,4 +44,20 @@ body{
 }
 .left img:active{
     transform: scale(0.99);
+}
+.in{
+    border: 3px solid black;
+    padding: 5px;
+    background-color:#6e1316;
+    width: 220px;
+}
+.nadpis{
+    font-size: 24px;
+}
+.rghtcnt{
+    background-color: #6e1316;
+    padding: 0;
+    margin: 0;
+}
+.main{
 }
