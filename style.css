@@ -3,6 +3,7 @@
 }
 body{
     background-image: url("bruh.png");
+    background-size: 100% ;
 }
 .left{
     width: 20%;
