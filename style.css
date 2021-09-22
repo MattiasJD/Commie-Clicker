@@ -56,8 +56,8 @@ body{
 }
 .rghtcnt{
     background-color: #6e1316;
-    padding: 0;
-    margin: 0;
+    border: 3px solid black;
+    height: 100px;
 }
 .main{
 }
