@@ -1,5 +1,10 @@
+@font-face {
+    font-family: socialisticFont;
+    src: url("fyodor.bold-expanded-oblique.ttf");
+}
 *{
     box-sizing: border-box;
+    font-family: socialisticFont;
 }
 body{
     background-image: url("img/main/bruh.png");
@@ -7,7 +12,6 @@ body{
 }
 .left{
     width: 20%;
-    font-family: sans-serif;
     font-size: 30px;
     float: left;
 }
@@ -39,10 +43,10 @@ body{
     transform: scale(0.98);
 }
 
-.left img:hover{
+.left div.shop:hover{
     transform: scale(1.01);
 }
-.left img:active{
+.left div.shop:active{
     transform: scale(0.99);
 }
 .in{
@@ -59,6 +63,21 @@ body{
     background-color: #6e1316;
     border: 3px solid black;
     height: 100px;
+}
+.nad{
+    padding-left: 2px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 26px;
+}
+.nadnad{
+    background-color: #6e1316;
+    width: 250px;
+    margin-left: 125px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border: 3px solid black;
 }
 .main{
 }
