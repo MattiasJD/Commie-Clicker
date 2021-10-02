@@ -12,7 +12,7 @@ body{
 }
 .left{
     width: 20%;
-    font-size: 30px;
+    font-size: 2vw;
     float: left;
 }
 .centre{
@@ -23,10 +23,9 @@ body{
 }
 .shop{
     text-align: center;
-    font-size: 18px;
-    padding-bottom: 18px;
     color: #e0dee5;
     float: right;
+    width: 100%;
 }
 .right{
     width: 20%;
@@ -51,33 +50,16 @@ body{
 }
 .in{
     border: 3px solid black;
-    padding: 5px;
     background-color:#6e1316;
-    width: 240px;
-    height: 240px;
-}
-.nadpis{
-    font-size: 24px;
 }
 .rghtcnt{
     background-color: #6e1316;
     border: 3px solid black;
-    height: 100px;
-}
-.nad{
-    padding-left: 2px;
-    padding-top: 15px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-size: 26px;
 }
 .nadnad{
     background-color: #6e1316;
-    width: 250px;
-    margin-left: 125px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
     border: 3px solid black;
+    text-align: center;
 }
 .main{
 }
