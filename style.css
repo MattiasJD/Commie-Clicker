@@ -29,13 +29,14 @@ body{
 .shop{
     text-align: center;
     color: #e0dee5;
-    float: right;
+    float: left;
     width: 100%;
+    font-size: 2vw;
 }
 .right{
     width: 20%;
-    float: right;
-    font-size: 2.2vw;
+    float: left;
+    font-size: 2vw;
 }
 #mps{
     font-weight: bolder;
@@ -54,16 +55,17 @@ body{
     transform: scale(0.99);
 }
 .in{
-    border: 3px solid black;
+    border: 2px solid black;
     background-color:#6e1316;
 }
 .rghtcnt{
     background-color: #6e1316;
-    border: 3px solid black;
+    border: 2px solid black;
+    width: 100%;
 }
 .nadnad{
     background-color: #6e1316;
-    border: 3px solid black;
+    border: 2px solid black;
     text-align: center;
 }
 .main{
