@@ -2,6 +2,11 @@
     font-family: socialisticFont;
     src: url("fyodor.bold-expanded-oblique.ttf");
 }
+@media screen and (min-width: 601px) {
+    * {
+        font-size: 85%;
+    }
+}
 *{
     box-sizing: border-box;
     font-family: socialisticFont;
@@ -11,12 +16,12 @@ body{
     background-size: 100% ;
 }
 .left{
-    width: 25%;
+    width: 20%;
     font-size: 2vw;
     float: left;
 }
 .centre{
-    width: 50%;
+    width: 60%;
     font-size: 32px;
     font-weight: bolder;
     float: left;
@@ -28,9 +33,9 @@ body{
     width: 100%;
 }
 .right{
-    width: 25%;
+    width: 20%;
     float: right;
-    font-size: 2vw;
+    font-size: 2.2vw;
 }
 #mps{
     font-weight: bolder;
