@@ -1,6 +1,6 @@
 # Commie-Clicker
 The greatest game of all time! Click on your last socialistic president to earn money!<br>
-###TODO
+### TODO
 - přidání herního data a času
 - možnost dohrání hry
 - více nákupů věcí
