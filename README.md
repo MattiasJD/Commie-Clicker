@@ -1,12 +1,12 @@
 # Commie-Clicker
 The greatest game of all time! Click on your last socialistic president to earn money!<br>
-###     WIP
+###TODO
 - přidání herního data a času
 - možnost dohrání hry
 - více nákupů věcí
 - přidání hudby
 - přidání ukládání obsahu
-### Changelist
+### Changelog
 v0.1 vytvoření tohoto trashe<br>
 v0.2 přídání funkčních sraček<br>
 v0.3 přidání sraček, vylepšení vzhledu<br>
