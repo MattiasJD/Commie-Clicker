@@ -1,4 +1,4 @@
-let money = 598000;
+let money = 0;
 let btn = document.getElementById("btn");
 let counter = document.getElementById("counter");
 let autoOne = document.getElementById("autoOne");

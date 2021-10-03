@@ -79,5 +79,11 @@ div.shop:active{
     text-align: center;
     font-size: 2vw;
 }
+.footer{
+    font-size: 2vw;
+    padding-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
 .main{
 }
