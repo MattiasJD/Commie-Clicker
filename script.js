@@ -26,7 +26,7 @@ const buyBetterMouse1 = () => {
     if(money >= 268000){
         money = money - 268000;
         cu4++;
-        cun4.innerText = "Vlastneno " + cu4 + "x";
+        cun4.innerText = "Vlastněno " + cu4 + "x";
         const dd = () => {
             money = money + 4000;
             counter.innerText = money + " devizových korun";
@@ -39,7 +39,7 @@ const buyAutoOne = () => {
     if(money >= 100000){
         money = money - 100000;
         cu1 = cu1 + 1;
-        cun1.innerText = "Vlastneno " + cu1 + "x";
+        cun1.innerText = "Vlastněno " + cu1 + "x";
         mp = mp+500;
         mps.innerText = mp + " devizových korun za sekundu"
         Auto = setInterval(() => {
@@ -53,7 +53,7 @@ const buyAutoTwo = () => {
     if(money >= 200000){
         money = money - 200000;
         cu2++;
-        cun2.innerText = "Vlastneno " + cu2 + "x";
+        cun2.innerText = "Vlastněno " + cu2 + "x";
         mp = mp+1250;
         mps.innerText = mp + " devizových korun za sekundu"
         Auto2 = setInterval(() => {
@@ -67,7 +67,7 @@ const buyAutoThree = () => {
     if(money >= 325000){
         money = money - 325000;
         cu3++;
-        cun3.innerText = "Vlastneno " + cu3 + "x";
+        cun3.innerText = "Vlastněno " + cu3 + "x";
         mp = mp+2000;
         mps.innerText = mp + " devizových korun za sekundu"
         Auto3 = setInterval(() => {
