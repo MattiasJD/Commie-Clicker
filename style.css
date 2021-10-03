@@ -14,6 +14,12 @@
 *{
     box-sizing: border-box;
     font-family: socialisticFont;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 body{
     background-image: url("img/main/bruh.png");
@@ -41,9 +47,7 @@ body{
     width: 20%;
     float: left;
     font-size: 2.5vw;
-}
-#mps{
-    font-weight: bolder;
+    text-align: center;
 }
 #dbl img:hover{
     transform: scale(1.01);
@@ -57,18 +61,23 @@ div.shop:hover{
 div.shop:active{
     transform: scale(0.99);
 }
+#mps{
+    border: 2px solid black;
+    background-color:#6e1316;
+}
 .in{
     border: 1px solid black;
     background-color:#6e1316;
+    font-size: 2vw;
 }
 .rghtcnt{
-    background-color: #6e1316;
     width: 100%;
 }
 .nadnad{
     background-color: #6e1316;
     border: 2px solid black;
     text-align: center;
+    font-size: 2vw;
 }
 .main{
 }
