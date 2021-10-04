@@ -13,3 +13,5 @@ v0.3 přidání sraček, vylepšení vzhledu<br>
 v0.4 stále nefuknční multiplier kliku, ale o dost vylepšen vzhled<br>
 v0.5 bugfixes<br>
 v0.6 konečně funkční na mobilu, lepší font a celkově vzhled<br>
+v0.7 bruh idk<br>
+v1.0 Hra je perfektně hratelná, všechno funguje i je zde začátek a konec. Jediné co chybí je savy, ty možná přidám.
